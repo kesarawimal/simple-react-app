@@ -1,0 +1,18 @@
+.search-bar {
+    margin: 30px;
+    text-align: center;
+}
+
+.search-bar input {
+    width: 60%;
+    font-size: larger;
+}
+
+.list-group-item {
+    cursor: pointer;
+}
+
+.details h5 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
